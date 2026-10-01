@@ -1,0 +1,1 @@
+print('oriole vo dich')
